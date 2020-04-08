@@ -11,11 +11,8 @@ Infect is a bash based script which is officially made for termux users and from
 [![Build Status](https://img.shields.io/github/forks/noob-hackers/Infect.svg)](https://github.com/ahmadchen/Infect)
 [![License: MIT](https://img.shields.io/github/license/noob-hackers/Infect.svg)](https://github.com/ahmadchen/Infect)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Infect)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-![.](https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg)
-
 
 ### ?? ***Infect is available for***:
 
